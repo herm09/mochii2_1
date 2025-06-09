@@ -1,2 +1,2 @@
-#Démarrer le bot
-node main
+# Démarrer le bot
+`node main`
